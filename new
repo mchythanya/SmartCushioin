@@ -1,1 +1,6 @@
-ghdfgdr
+git clone url
+git init
+git status
+git checkout -b branch1
+git chechout master
+
